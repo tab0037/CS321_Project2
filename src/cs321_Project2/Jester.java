@@ -44,7 +44,7 @@ public class Jester {
 			winbet = F2.name;
 		}
 	}
-	void CommendOnMiddle(Fighter F)
+	void CommentOnMiddle(Fighter F)
 	{
 		System.out.println("Wow! " + F.name + " is looking rough, seems like they're already halfway in their grave!");
 	}
